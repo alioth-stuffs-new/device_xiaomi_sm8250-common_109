@@ -27,6 +27,9 @@ persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
+#lunaris
+ro.paranoid.maintainer=nhAsif
+
 # Netflix
 ro.netflix.bsp_rev=Q8250-19134-1
 
